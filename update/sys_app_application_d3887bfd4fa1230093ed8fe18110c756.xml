@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>KiranSNOW_Learn_Needit</name>
+        <order/>
+        <roles>x_135691_kiransnow.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-04 12:45:38</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d3887bfd4fa1230093ed8fe18110c756</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>KiranSNOW_Learn_Needit</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="KiranSNOW_Learn_Needit" source="x_135691_kiransnow">07887fbd4fa1230093ed8fe18110c78a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="KiranSNOW_Learn_Needit">07887fbd4fa1230093ed8fe18110c78a</sys_scope>
+        <sys_update_name>sys_app_application_d3887bfd4fa1230093ed8fe18110c756</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-04 12:45:38</sys_updated_on>
+        <title>KiranSNOW_Learn_Needit</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
